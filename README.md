@@ -7,7 +7,7 @@ The flag format: **flag{CYS405_####}**
 | Challenge Name | Category | Level  |
 |----------------|----------|--------|
 | The Shady File | Forensic | Easy   |
-| Our Secret     | Forensic | Easy   |
+| Our Secret!     | Forensic | Easy   |
 | Try To Find Me.. | Web      | Easy   |
 | CRYPTOPDF      | Forensic | Medium |
 | Don't Blink    | Forensic | Medium |
@@ -25,7 +25,7 @@ The flag format: **flag{CYS405_####}**
 ## The Shady File
 I'm having difficulty opening this image file!! It indicates that the file does not support this format. Can you help me in figuring it out and catch the first flag?
 
-## Our Secret
+## Our Secret!
 My friend Sara sent me a text file, but the words inside it appear to be unreadable. How can I make them readable? Also, she told me there is more than one passphrase. Anyway, I should meet her at our place, which is to the right of the grocery store.
 
 ## CRYPTOPDF
