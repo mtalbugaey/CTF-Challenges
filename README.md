@@ -18,7 +18,6 @@ The flag format: **flag{CYS405_####}**
 | Corrupted Secret Image  | Forensic  | Advance |
 
 <br>
-<br>
 
 # 🕵🏻‍♀️ Forensic Challenges
 ## The Shady File
@@ -41,7 +40,6 @@ I have found this weird audio file on my laptop it contains weird incomprehensib
 Can you find the flag among these files? It also says that there is a hidden folder.
 
 <br>
-<br>
 
 # 🕸️ Network Challenges
 ## Deep Inside
@@ -51,13 +49,11 @@ Well something suspicious about my pcap file, can you help me find it!!! I need 
 We captured some network traffic that contain some of suspicious emails. Can you help us to figure it out?
 
 <br>
-<br>
 
 # 🌐 Web Challenges
 ## Try To Find Me..
 There is a flag hidden there.. can you find it somewhere?
 
-<br>
 <br>
 
 # 🔐 Cryptography Challenges
