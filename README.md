@@ -19,9 +19,8 @@ The flag format: **flag{CYS405_####}**
 
 <br>
 <br>
-<br>
 
-# Forensic Challenges
+# 🕵🏻‍♀️ Forensic Challenges
 ## The Shady File
 I'm having difficulty opening this image file!! It indicates that the file does not support this format. Can you help me in figuring it out and catch the first flag?
 
@@ -43,9 +42,8 @@ Can you find the flag among these files? It also says that there is a hidden fol
 
 <br>
 <br>
-<br>
 
-# Network Challenges
+# 🕸️ Network Challenges
 ## Deep Inside
 Well something suspicious about my pcap file, can you help me find it!!! I need your analyzing skills!
 
@@ -54,17 +52,15 @@ We captured some network traffic that contain some of suspicious emails. Can you
 
 <br>
 <br>
-<br>
 
-# Web Challenges
+# 🌐 Web Challenges
 ## Try To Find Me..
 There is a flag hidden there.. can you find it somewhere?
 
 <br>
 <br>
-<br>
 
-# Cryptography Challenges
+# 🔐 Cryptography Challenges
 ## Can You Enter?
 I don’t know the username and password for this program and I have to find the flag can you help me?
 
