@@ -1,8 +1,8 @@
 # CTF-Challenges
-This repository lists CTF challenges developed personally with my team, the challenges divided into 4 category which are forensic, network, web and cryptography.
+This repository lists CTF challenges that I personally developed with my team. The challenges are divided into 4 categories: forensic, network, web, and cryptography.
 <br>
 <br>
-The flag format: **flag{CYS405_####}**
+The flag format is: **flag{CYS405_####}**
 
 | Challenge Name | Category | Level  |
 |----------------|----------|--------|
